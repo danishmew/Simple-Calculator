@@ -12,6 +12,7 @@
   "author": "Danish Mew",
   "license": "MIT",
   "dependencies": {
+    "da_smart_calculator": "^2.0.2",
     "inquirer": "^9.2.16"
   },
   "devDependencies": {
