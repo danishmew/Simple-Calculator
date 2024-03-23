@@ -1,6 +1,6 @@
 {
   "name": "da_smart_calculator",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "description": "A simple command-line calculator built with Typescript, Node.js and Inquirer allowing easy arithmetic operations from your terminal.",
   "main": "index.js",
   "type": "module",
@@ -12,6 +12,7 @@
   "author": "Danish Mew",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^5.3.0",
     "da_smart_calculator": "^2.0.2",
     "inquirer": "^9.2.16"
   },
